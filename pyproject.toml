@@ -14,10 +14,11 @@ matplotlib = "^3.9.2"
 streamlit = "^1.38.0"
 ipykernel = "^6.29.5"
 
-
-[tool.poetry.group.dev.dependencies]
+[tool.poetry.dev-dependencies]
 ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+

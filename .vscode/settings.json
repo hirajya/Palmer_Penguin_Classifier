@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./palmer_penguin_classifier"]
+}
